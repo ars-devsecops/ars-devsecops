@@ -29,7 +29,7 @@
 ## 🧭 About Me
 
 ```yaml
-name:         Amol Ramesh Shinde
+name:         Amol Shinde
 role:         Cloud & DevOps Engineer
 experience:   3 Years
 location:     Pune, Maharashtra, India
