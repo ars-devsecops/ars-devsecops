@@ -115,16 +115,12 @@ currently:
 
 ## 📂 Featured Repositories
 
-> 🚧 *Repositories being populated — check back soon!*
-
 | Repo | Description | Stack |
 |------|-------------|-------|
-| 🔧 [aws-terraform-modules](#) | Reusable, production-grade Terraform modules | `Terraform` `AWS` |
-| 🔄 [cicd-pipeline-templates](#) | Jenkins & GitHub Actions pipeline templates | `Jenkins` `YAML` `GitHub Actions` |
-| 🔐 [devsecops-playbook](#) | IAM hardening, VAPT checklists, secure CI/CD | `DevSecOps` `AWS` |
-| 💰 [aws-cost-optimization](#) | Scripts & strategies to cut AWS spend | `Python` `Bash` `AWS` |
-| 📋 [incident-runbooks](#) | RCA templates & rollback runbooks | `Markdown` `Ops` |
-| 🐳 [kubernetes-configs](#) | K8s Deployments, Ingress, HPA configs | `Kubernetes` `YAML` |
+| 🔧 [aws-terraform-modules](https://github.com/ars-devsecops/aws-terraform-modules) | Reusable, production-grade Terraform modules | `Terraform` `AWS` |
+| 🔄 [cicd-pipeline-templates](https://github.com/ars-devsecops/cicd-pipeline-templates) | Jenkins & GitHub Actions pipeline templates | `Jenkins` `YAML` `GitHub Actions` |
+| 🔐 [devsecops-playbook](https://github.com/ars-devsecops/devsecops-playbook) | IAM hardening, VAPT checklists, secure CI/CD | `DevSecOps` `AWS` |
+| 💰 [aws-cost-optimization](https://github.com/ars-devsecops/aws-cost-optimization) | Scripts & strategies to cut AWS spend | `Python` `Bash` `AWS` |
 
 ---
 
@@ -151,14 +147,15 @@ currently:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ars-devsecops&show_icons=true&theme=dark&hide_border=true&bg_color=0a0c10&title_color=00e5a0&icon_color=4f8cff&text_color=e8eaf0" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ars-devsecops&layout=compact&theme=dark&hide_border=true&bg_color=0a0c10&title_color=00e5a0&text_color=e8eaf0" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=ars-devsecops&theme=dark&hide_border=true&background=0a0c10&ring=00e5a0&fire=ff6b35&currStreakLabel=00e5a0" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ars-devsecops&show_icons=true&theme=dark&hide_border=true&bg_color=0a0c10&title_color=00e5a0&icon_color=4f8cff&text_color=e8eaf0&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=ars-devsecops&theme=dark&hide_border=true&background=0a0c10&ring=00e5a0&fire=ff6b35&currStreakLabel=00e5a0&dates=e8eaf0" />
+</p>
 
-</div>
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ars-devsecops&layout=compact&theme=dark&hide_border=true&bg_color=0a0c10&title_color=00e5a0&text_color=e8eaf0&langs_count=8" />
+</p>
+
 ---
 
 ## 📫 Let's Connect
@@ -170,9 +167,11 @@ currently:
 🔗 **[linkedin.com/in/amol-shinde-profile](https://linkedin.com/in/amol-shinde-profile)**  
 📍 Pune, India · Open to Remote
 
----
+<br/>
 
 *"Infrastructure should be boring in production and exciting in code."*
+
+<br/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ars-devsecops&color=00e5a0&style=flat-square&label=PROFILE+VIEWS)
 
