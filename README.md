@@ -152,15 +152,13 @@ currently:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Amol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ars-devsecops&show_icons=true&theme=dark&hide_border=true&bg_color=0a0c10&title_color=00e5a0&icon_color=4f8cff&text_color=e8eaf0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ars-devsecops&layout=compact&theme=dark&hide_border=true&bg_color=0a0c10&title_color=00e5a0&text_color=e8eaf0)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ars-devsecops&theme=dark&hide_border=true&background=0a0c10&ring=00e5a0&fire=ff6b35&currStreakLabel=00e5a0)
+  <img src="https://github-readme-stats.vercel.app/api?username=ars-devsecops&show_icons=true&theme=dark&hide_border=true&bg_color=0a0c10&title_color=00e5a0&icon_color=4f8cff&text_color=e8eaf0" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ars-devsecops&layout=compact&theme=dark&hide_border=true&bg_color=0a0c10&title_color=00e5a0&text_color=e8eaf0" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=ars-devsecops&theme=dark&hide_border=true&background=0a0c10&ring=00e5a0&fire=ff6b35&currStreakLabel=00e5a0" />
 
 </div>
-
 ---
 
 ## 📫 Let's Connect
