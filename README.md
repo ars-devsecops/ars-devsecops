@@ -21,6 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amol-shinde-profile)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amolshinde8596@gmail.com)
 [![Location](https://img.shields.io/badge/Pune,%20India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Profile Views](https://komarev.com/ghpvc/?username=ars-devsecops&color=00e5a0&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ars-devsecops)
 
 </div>
 
@@ -148,13 +149,15 @@ currently:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ars-devsecops&show_icons=true&theme=dark&hide_border=true&bg_color=0a0c10&title_color=00e5a0&icon_color=4f8cff&text_color=e8eaf0&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=ars-devsecops&theme=dark&hide_border=true&background=0a0c10&ring=00e5a0&fire=ff6b35&currStreakLabel=00e5a0&dates=e8eaf0" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ars-devsecops&show_icons=true&theme=dark&hide_border=true&bg_color=0a0c10&title_color=00e5a0&icon_color=4f8cff&text_color=e8eaf0&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ars-devsecops&theme=dark&hide_border=true&background=0a0c10&ring=00e5a0&fire=ff6b35&currStreakLabel=00e5a0&dates=6b7280&sideLabels=e8eaf0" />
 </p>
 
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ars-devsecops&layout=compact&theme=dark&hide_border=true&bg_color=0a0c10&title_color=00e5a0&text_color=e8eaf0&langs_count=8" />
 </p>
+
+> ⏳ Stats refresh automatically every 30 minutes as activity grows.
 
 ---
 
@@ -170,9 +173,5 @@ currently:
 <br/>
 
 *"Infrastructure should be boring in production and exciting in code."*
-
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ars-devsecops&color=00e5a0&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
