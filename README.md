@@ -158,10 +158,10 @@ currently:
 </p>
 
 <!-- DYNAMIC_STATS_START -->
-> ⏱️ **Last refreshed:** 21 Apr 2026 · 03:20 PM IST
+> ⏱️ **Last refreshed:** 21 Apr 2026 · 03:25 PM IST
 >
-> 🔀 **Latest commit:** `4d31ef3` — test changes
-> 📁 **Repo:** [devsecops-playbook](https://github.com/ars-devsecops/devsecops-playbook) · 21 Apr 2026
+> 🔀 **Latest commit:** `6002649` — Minor changes in README.md file
+> 📁 **Repo:** [aws-terraform-modules](https://github.com/ars-devsecops/aws-terraform-modules) · 21 Apr 2026
 <!-- DYNAMIC_STATS_END -->
 
 ---
