@@ -149,15 +149,20 @@ currently:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ars-devsecops&show_icons=true&theme=dark&hide_border=true&bg_color=0a0c10&title_color=00e5a0&icon_color=4f8cff&text_color=e8eaf0&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ars-devsecops&theme=dark&hide_border=true&background=0a0c10&ring=00e5a0&fire=ff6b35&currStreakLabel=00e5a0&dates=6b7280&sideLabels=e8eaf0" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ars-devsecops&show_icons=true&theme=dark&hide_border=true&bg_color=0a0c10&title_color=00e5a0&icon_color=4f8cff&text_color=e8eaf0&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ars-devsecops&theme=dark&hide_border=true&background=0a0c10&ring=00e5a0&fire=ff6b35&currStreakLabel=00e5a0&dates=6b7280&sideLabels=e8eaf0&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ars-devsecops&layout=compact&theme=dark&hide_border=true&bg_color=0a0c10&title_color=00e5a0&text_color=e8eaf0&langs_count=8" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ars-devsecops&layout=compact&theme=dark&hide_border=true&bg_color=0a0c10&title_color=00e5a0&text_color=e8eaf0&langs_count=8&cache_seconds=1800" />
 </p>
 
-> ⏳ Stats refresh automatically every 30 minutes as activity grows.
+<!-- DYNAMIC_STATS_START -->
+> ⏱️ **Last refreshed:** _updating soon..._
+>
+> 🔀 **Latest commit:** _fetching..._
+> 📁 **Repo:** _fetching..._
+<!-- DYNAMIC_STATS_END -->
 
 ---
 
