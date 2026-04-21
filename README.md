@@ -158,10 +158,10 @@ currently:
 </p>
 
 <!-- DYNAMIC_STATS_START -->
-> ⏱️ **Last refreshed:** _updating soon..._
+> ⏱️ **Last refreshed:** 21 Apr 2026 · 03:20 PM IST
 >
-> 🔀 **Latest commit:** _fetching..._
-> 📁 **Repo:** _fetching..._
+> 🔀 **Latest commit:** `4d31ef3` — test changes
+> 📁 **Repo:** [devsecops-playbook](https://github.com/ars-devsecops/devsecops-playbook) · 21 Apr 2026
 <!-- DYNAMIC_STATS_END -->
 
 ---
