@@ -158,10 +158,10 @@ currently:
 </p>
 
 <!-- DYNAMIC_STATS_START -->
-> ⏱️ **Last refreshed:** 22 Apr 2026 · 04:19 PM IST
+> ⏱️ **Last refreshed:** 22 Apr 2026 · 09:23 PM IST
 >
-> 🔀 **Latest commit:** `6002649` — Minor changes in README.md file
-> 📁 **Repo:** [aws-terraform-modules](https://github.com/ars-devsecops/aws-terraform-modules) · 21 Apr 2026
+> 🔀 **Latest commit:** `51de76b` — feat: Deployment Playbook and Jenkins Pipeline
+> 📁 **Repo:** [ansible-jenkins-deployment](https://github.com/ars-devsecops/ansible-jenkins-deployment) · 22 Apr 2026
 <!-- DYNAMIC_STATS_END -->
 
 ---
