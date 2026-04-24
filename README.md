@@ -122,6 +122,7 @@ currently:
 | 🔄 [cicd-pipeline-templates](https://github.com/ars-devsecops/cicd-pipeline-templates) | Jenkins & GitHub Actions pipeline templates | `Jenkins` `YAML` `GitHub Actions` |
 | 🔐 [devsecops-playbook](https://github.com/ars-devsecops/devsecops-playbook) | IAM hardening, VAPT checklists, secure CI/CD | `DevSecOps` `AWS` |
 | 💰 [aws-cost-optimization](https://github.com/ars-devsecops/aws-cost-optimization) | Scripts & strategies to cut AWS spend | `Python` `Bash` `AWS` |
+| ⌛ [ansible-modules](https://github.com/ars-devsecops/ansible-modules) | Ansible Modules & Jenkins Deployments  | `Ansible` `YAML` `Groovy` |
 
 ---
 
