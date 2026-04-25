@@ -144,6 +144,13 @@ currently:
 🎮 Gametion Technologies     → Gaming workloads on AWS CodePipeline
                                Release time: hours → minutes
 ```
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ars-devsecops&layout=compact&theme=dark&hide_border=true&bg_color=0a0c10&title_color=00e5a0&text_color=e8eaf0&langs_count=8&cache_seconds=1800" />
+</p>
 
 ---
 
