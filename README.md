@@ -147,26 +147,6 @@ currently:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ars-devsecops&show_icons=true&theme=dark&hide_border=true&bg_color=0a0c10&title_color=00e5a0&icon_color=4f8cff&text_color=e8eaf0&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800"  />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ars-devsecops&theme=dark&hide_border=true&background=0a0c10&ring=00e5a0&fire=ff6b35&currStreakLabel=00e5a0&dates=6b7280&sideLabels=e8eaf0&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ars-devsecops&layout=compact&theme=dark&hide_border=true&bg_color=0a0c10&title_color=00e5a0&text_color=e8eaf0&langs_count=8&cache_seconds=1800" />
-</p>
-
-<!-- DYNAMIC_STATS_START -->
-> ⏱️ **Last refreshed:** 24 Apr 2026 · 11:26 PM IST
->
-> 🔀 **Latest commit:** `e3338b4` — feat: jenkins pipeline using ansible playbooks
-> 📁 **Repo:** [ansible-modules](https://github.com/ars-devsecops/ansible-modules) · 24 Apr 2026
-<!-- DYNAMIC_STATS_END -->
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
